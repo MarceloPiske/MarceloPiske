@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+<!-- ![Piske GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloPiske&show_icons=false&theme=dracula&count_private=true) -->
 
 <!--
 **MarceloPiske/MarceloPiske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div style="display: inline_block">
+  <img align="center" alt="py" style="width: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
+  <img align="center" style="width: 40px;" alt="nodejs" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" />
+</div> -->
